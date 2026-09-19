@@ -40,7 +40,7 @@ The analysis focuses on:
 
 ## 📈 Dashboard
 
-![Marketing Dashboard](marketing-dashboard.png)
+![Marketing Dashboard](image.png)
 
 ---
 
